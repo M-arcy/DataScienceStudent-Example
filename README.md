@@ -1,4 +1,4 @@
-# DataScienceForIndependentRestaurants 
+# Examples 
 
 
-test 
+sample projects
