@@ -1,5 +1,3 @@
-#Downloading a new sentiment analysis package by Ben Wiseman, found [here](https://github.com/BenWiseman) and using data I collected from a local restaurant's web page 
-
 install.packages("sentiment.ai")
 install.packages("sentimentAnalysis")
 install.packages("sentimentr")
